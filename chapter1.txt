@@ -1,1 +1,2 @@
 learning git and git hub for merging process
+chasnging the things for new branch
